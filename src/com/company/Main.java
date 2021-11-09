@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         int education = 0, grading = 0;
+
         Scanner s = new Scanner(System.in);
         System.out.println("enter your years of education");
         education = s.nextInt();
